@@ -18,7 +18,7 @@ const GuitarTitle: React.FC<GuitarTitleProps> = ({ activeIndex, filter }) => {
               activeIndex.contrast === "white"
                 ? "text-white"
                 : "text-[#050505]"
-            } transition-all duration-1000`}
+            } transition-all duration-1000 text-[13dvw]`}
           >
             {filter === "LES PAUL" && "Les"}
             {filter === "GIBSON SG" && "Gibson"}
@@ -28,14 +28,14 @@ const GuitarTitle: React.FC<GuitarTitleProps> = ({ activeIndex, filter }) => {
             style={{ color: activeIndex.bgColor }}
             className={`${
               activeIndex.contrast === "white" ? "base-white" : "base-black"
-            } transition-all w-full duration-1000`}
+            } transition-all w-full text-[13dvw] duration-1000`}
           >
             {filter === "LES PAUL" && "paul"}
             {filter === "GIBSON SG" && "sg"}
           </span>
         </h1>
 
-        <p className="z-40 absolute lg:-top-[5%] leading-none top-[125px]">
+        <p className="z-40 absolute text-[13dvw] lg:-top-[5%] leading-none top-[125px]">
           <span className="opacity-0">
             {filter === "LES PAUL" && "Les"}
             {filter === "GIBSON SG" && "Gibson"}
@@ -44,8 +44,8 @@ const GuitarTitle: React.FC<GuitarTitleProps> = ({ activeIndex, filter }) => {
             style={{ color: activeIndex.bgColor }}
             className={`${
               activeIndex.contrast === "white"
-                ? "others-white"
-                : "others-black"
+                ? "base-white"
+                : "base-black"
             } ${
               filter === "EPIPHONE RIVERA" && "hidden"
             } transition-all w-full duration-1000`}
@@ -54,7 +54,7 @@ const GuitarTitle: React.FC<GuitarTitleProps> = ({ activeIndex, filter }) => {
             {filter === "GIBSON SG" && "sg"}
           </span>
         </p>
-        <p className="z-30 absolute lg:top-[4%] leading-none top-[110px]">
+        <p className="z-30 absolute lg:top-[4%] text-[13dvw] leading-none top-[110px]">
           <span className="opacity-0">
             {filter === "LES PAUL" && "Les"}
             {filter === "GIBSON SG" && "Gibson"}
@@ -63,8 +63,8 @@ const GuitarTitle: React.FC<GuitarTitleProps> = ({ activeIndex, filter }) => {
             style={{ color: activeIndex.bgColor }}
             className={`${
               activeIndex.contrast === "white"
-                ? "others-white"
-                : "others-black"
+                ? "base-white"
+                : "base-black"
             } ${
               filter === "EPIPHONE RIVERA" && "hidden"
             } transition-all w-full duration-1000`}
@@ -73,7 +73,7 @@ const GuitarTitle: React.FC<GuitarTitleProps> = ({ activeIndex, filter }) => {
             {filter === "GIBSON SG" && "sg"}
           </span>
         </p>
-        <p className="z-20 absolute lg:top-[12%] leading-none top-[100px]">
+        <p className="z-20 absolute lg:top-[13%] text-[13dvw] leading-none top-[100px]">
           <span className="opacity-0">
             {filter === "LES PAUL" && "Les"}
             {filter === "GIBSON SG" && "Gibson"}
@@ -82,8 +82,8 @@ const GuitarTitle: React.FC<GuitarTitleProps> = ({ activeIndex, filter }) => {
             style={{ color: activeIndex.bgColor }}
             className={`${
               activeIndex.contrast === "white"
-                ? "others-white"
-                : "others-black"
+                ? "base-white"
+                : "base-black"
             } ${
               filter === "EPIPHONE RIVERA" && "hidden"
             } transition-all w-full duration-1000`}
