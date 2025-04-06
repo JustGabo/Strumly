@@ -1,5 +1,5 @@
 "use client";
-import Biography from "@/app/create/components/Biography";
+// import Biography from "@/app/create/components/Biography";
 import { AudioLines, Contact, User } from "lucide-react";
 import React, { useEffect, useState } from "react";
 import { UsingNavbarContext } from "@/app/context/navbarContext";
