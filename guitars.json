@@ -1,0 +1,152 @@
+[
+  {
+    "image": "/LP-Yellow.png",
+    "bgColor": "#D6B059",
+    "model": "Les Paul Special - TV Yellow.",
+    "price": "1,790.00",
+    "contrast": "black",
+    "type": "LES PAUL",
+    "branch": "Special",
+    "id": "1"
+  },
+  {
+    "image": "/LP-Red.png",
+    "bgColor": "#400F12",
+    "model": "Les Paul Standard 60s Plain Top, Sparkling Burgundy.",
+    "price": "2,599.00",
+    "contrast": "white",
+    "type": "LES PAUL",
+    "branch": "Standar",
+    "id": "2"
+  },
+  {
+    "image": "/LP-EXCLUSIVE-MIDNIGHT.png",
+    "bgColor": "#012271",
+    "model": "Les Paul Modern Studio, Exclusive, Exclusive, Manhattan Midnight Satin.",
+    "price": "1,999.00",
+    "contrast": "white",
+    "type": "LES PAUL",
+    "branch": "Modern Studio",
+    "id": "3"
+  },
+  {
+    "image": "/LP-Satin.png",
+    "bgColor": "#7F7A63",
+    "model": "Les Paul Modern Lite - Gold Mist Satin.",
+    "price": "1,499.00",
+    "contrast": "black",
+    "type": "LES PAUL",
+    "branch": "Modern Lite",
+    "id": "4"
+  },
+  {
+    "image": "/LP-White.png",
+    "bgColor": "#D3D2D9",
+    "model": "Les Paul Studio, Smokehouse Burst.",
+    "price": "1,699.00",
+    "contrast": "black",
+    "type": "LES PAUL",
+    "branch": "Special",
+    "id": "5"
+  },
+  {
+    "image": "/LP-EXCLUSIVE-EBONY.png",
+    "bgColor": "#1B1D21",
+    "model": "Les Paul Supreme, Exclusive, Ebony, 3-Pickup.",
+    "price": "3,999.00",
+    "contrast": "white",
+    "type": "LES PAUL",
+    "branch": "Exclusive",
+    "id": "6"
+  },
+  {
+    "image": "/SG-Cherry.png",
+    "bgColor": "#832717",
+    "model": "SG Standard '61 Faded Maestro Vibrola - Vintage Cherry.",
+    "price": "2,199.00",
+    "contrast": "white",
+    "type": "GIBSON SG",
+    "branch": "Standar",
+    "id": "7"
+  },
+  {
+    "image": "/SG-Silver.png",
+    "bgColor": "#BFC2CE",
+    "model": "SG Standard ‘61 - Silver Mist.",
+    "price": "1,999.00",
+    "contrast": "black",
+    "type": "GIBSON SG",
+    "branch": "Standar",
+    "id": "8"
+  },
+  {
+    "image": "/SG-Yellow.png",
+    "bgColor": "#CFAF60",
+    "model": "SG Standard - TV Yellow.",
+    "price": "1,799.00",
+    "contrast": "black",
+    "type": "GIBSON SG",
+    "branch": "Standar",
+    "id": "9"
+  },
+  {
+    "image": "/SG-Black.png",
+    "bgColor": "#201D1E",
+    "model": "SG Modern - Trans Black Fade.",
+    "price": "2,499.00",
+    "contrast": "white",
+    "type": "GIBSON SG",
+    "branch": "Modern",
+    "id": "10"
+  },
+  {
+    "image": "/SG-Purple.png",
+    "bgColor": "#261628",
+    "model": "SG Modern - Exclusive, Dark Purple Burst.",
+    "price": "2,499.00",
+    "contrast": "white",
+    "type": "GIBSON SG",
+    "branch": "Exclusive",
+    "id": "11"
+  },
+  {
+    "image": "/ER-Wine.png",
+    "bgColor": "#2F151D",
+    "model": "Noel Gallagher Riviera, Dark Wine Red.",
+    "price": "2,499.00",
+    "contrast": "white",
+    "type": "EPIPHONE RIVERA",
+    "branch": "Gallagher",
+    "id": "12"
+  },
+  {
+    "image": "/ER-Tan.png",
+    "bgColor": "#DA8C1B",
+    "model": "Riviera, Royal Tan.",
+    "price": "1,499.00",
+    "contrast": "black",
+    "type": "EPIPHONE RIVERA",
+    "branch": "Standar",
+    "id": "13"
+  },
+  {
+    "image": "/ER-Red.png",
+    "bgColor": "#B3061F",
+    "model": "Riviera, Red Blood.",
+    "price": "2,999.00",
+    "contrast": "white",
+    "type": "EPIPHONE RIVERA",
+    "branch": "Standar",
+    "id": "14"
+  },
+  {
+    "image": "/ER-Mate.png",
+    "bgColor": "#3D2F30",
+    "model": "Riviera, Red Wine Mate.",
+    "price": "2,299.00",
+    "contrast": "white",
+    "type": "EPIPHONE RIVERA",
+    "branch": "Standar",
+    "id": "15"
+  }
+]
