@@ -50,7 +50,7 @@ const about: Record<string, string> = {
 };
 
 const Guitars = () => {
-  const [filter, setFilter] = useState<string>("EPIPHONE RIVERA");
+  const [filter, setFilter] = useState<string>("LES PAUL");
   const filteredGuitars = guitars.filter(
     (guitar) => guitar.type === filter.toUpperCase()
   );
